@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CS Engineering
 - 💞️ I’m looking to collaborate on my solution problems
 - 📫 How to reach me ...
-       LinkedIN :- https://bit.ly/2WpX1ba
+       Linkedin :- https://bit.ly/2WpX1ba
        Facebook :- https://bit.ly/2VoTgCM
 
 <!---
