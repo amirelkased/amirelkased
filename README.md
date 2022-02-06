@@ -1,6 +1,6 @@
 ### `Hey There 👋`
 
-- 👋 Hi, I’m Amir Elkased. I am form Egypt and I am 20 Years old.
+- 👋 Hi, I’m Amir Elkased. I am from Egypt and I am 20 years old.
 - 👀 I’m interested in Problem Solving. 
 - 🌱 I’m currently learning CS Engineering.
 - 💞️ I’m looking to collaborate on my solution problems.
