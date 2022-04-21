@@ -7,7 +7,7 @@
 
 ### `Contact Info 📫`
 
-- [Linkedin](https://www.linkedin.com/in.amirelkased)
+- [Linkedin](https://www.linkedin.com/in/amirelkased/)
 - [Facebook](https://www.facebook.me/amirelkased)
 
 > Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
