@@ -1,14 +1,14 @@
 ### `Hey There 👋`
 
-- 👋 Hi, I’m Amir Elkased. I am from Egypt and I am 20 years old.
-- 👀 I’m interested in Problem Solving. 
+- 👋 Hi, I’m Amir Elkased. I am from Egypt and I am 21 years old.
+- 👀 I’m interested in Problem Solving and Java Developer. 
 - 🌱 I’m currently learning CS Engineering.
 - 💞️ I’m looking to collaborate on my solution problems.
 
 ### `Contact Info 📫`
 
-- [Linkedin](https://www.linkedin.com/in/amirelkased/)
-- [Facebook](https://www.facebook.me/amirelkased)
+- [Linkedin](https://www.linkedin.com/in/amirelkased)
+- [Facebook](https://www.facebook.com/amirelkased)
 
 > Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 <!---
