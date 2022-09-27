@@ -57,13 +57,13 @@
 
 ## 📚 Repositories
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=amirelkased&repo=Amazing_Numbers)](https://github.com/amirelkased/Amazing_Numbers)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=amirelkased&repo=Amazing_Numbers&theme=nightowl)](https://github.com/amirelkased/Amazing_Numbers)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=amirelkased&repo=Cinema-Room-Manager)](https://github.com/amirelkased/Cinema-Room-Manager)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=amirelkased&repo=Cinema-Room-Manager&theme=nightowl)](https://github.com/amirelkased/Cinema-Room-Manager)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=amirelkased&repo=CoffeeMachine)](https://github.com/amirelkased/CoffeeMachine)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=amirelkased&repo=CoffeeMachine&theme=nightowl)](https://github.com/amirelkased/CoffeeMachine)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=amirelkased&repo=Simple-Tic-Tac-Toe)](https://github.com/amirelkased/Simple-Tic-Tac-Toe)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=amirelkased&repo=Simple-Tic-Tac-Toe&theme=nightowl)](https://github.com/amirelkased/Simple-Tic-Tac-Toe)
 
 
 ## ⚡Github Readme Streak Stats
