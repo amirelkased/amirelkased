@@ -1,4 +1,4 @@
-### `Hey There 👋`
+## 👋 Hey There 
 
 - 👋 Hi, I’m Amir Elkased. I am from Egypt and I am 21 years old.
 - 👀 I’m interested in Problem Solving and Java Developer. 
@@ -15,16 +15,7 @@
 
 
 
-### `Contact Info 📫`
-[<img align="left" width="22" alt="Amir Elkased on Telegram" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg">](https://t.me/amirelkased)
-[<img align="left" width="22" alt="Amir Elkased on Discord" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg">](https://discord.gg/amirelkased)
-[<img align="left" width="22" alt="Amir Elkased on Instagram" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg">](https://instagram.com/amirelkased)
-[<img align="left" width="22" alt="Amir Elkased on Facebook" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg">](https://facebook.com/amirelkased)
-[<img align="left" width="22" alt="Amir Elkased on Twitter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">](https://twitter.com/amirelkased)
-[<img align="left" width="22" alt="Amir Elkased on LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://linkedin.com/in/amirelkased)
-<br>
 
-</b>
 
 
 ## ⚙ Skills
@@ -70,6 +61,17 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=amirelkased&theme=github-dark)](https://git.io/streak-stats)
 
+## 📫 Contact Info 
+
+[<img align="left" width="22" alt="Amir Elkased on Telegram" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg">](https://t.me/amirelkased)
+[<img align="left" width="22" alt="Amir Elkased on Discord" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg">](https://discord.gg/amirelkased)
+[<img align="left" width="22" alt="Amir Elkased on Instagram" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg">](https://instagram.com/amirelkased)
+[<img align="left" width="22" alt="Amir Elkased on Facebook" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg">](https://facebook.com/amirelkased)
+[<img align="left" width="22" alt="Amir Elkased on Twitter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">](https://twitter.com/amirelkased)
+[<img align="left" width="22" alt="Amir Elkased on LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://linkedin.com/in/amirelkased)
+<br>
+
+</b>
 
 <!---
 amirelkased/amirelkased is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
