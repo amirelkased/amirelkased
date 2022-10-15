@@ -1,4 +1,10 @@
-## 👋 Hey There 
+<!--
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/Aras_Gungore.gif" alt="Aras Gungore" width="433" height="74" />
+</div>
+-->
+
+# Welcome in my GitHub page  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
 
 - 👋 Hi, I’m Amir Elkased. I am from Egypt and I am 21 years old.
 - 👀 I’m interested in Problem Solving and Java Developer. 
@@ -52,7 +58,8 @@
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=amirelkased&repo=CoffeeMachine&theme=nightowl)](https://github.com/amirelkased/CoffeeMachine)
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=amirelkased&repo=Simple-Tic-Tac-Toe&theme=nightowl)](https://github.com/amirelkased/Simple-Tic-Tac-Toe)
-
+&nbsp; &nbsp;
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=amirelkased&repo=Bootcamp_Learning_python&theme=nightowl)](https://github.com/amirelkased/Bootcamp_Learning_python)
 
 ## ⚡Github Readme Streak Stats
 
@@ -60,12 +67,17 @@
 
 ## 📫 Contact Info 
 
-[<img align="left" width="22" alt="Amir Elkased on Telegram" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg">](https://t.me/amirelkased)
-[<img align="left" width="22" alt="Amir Elkased on Discord" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg">](https://discord.gg/amirelkased)
-[<img align="left" width="22" alt="Amir Elkased on Instagram" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg">](https://instagram.com/amirelkased)
-[<img align="left" width="22" alt="Amir Elkased on Facebook" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg">](https://facebook.com/amirelkased)
-[<img align="left" width="22" alt="Amir Elkased on Twitter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">](https://twitter.com/amirelkased)
-[<img align="left" width="22" alt="Amir Elkased on LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://linkedin.com/in/amirelkased)
+<div align="left">
+  <a href="mailto:amirelkased8558@gmail.com" target="_blank" rel="noreferrer"> <img alt="Amir Elkased's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/amirelkased" target="_blank" rel="noreferrer"> <img alt="Amir Elkased's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://github.com/amirelkased" target="_blank" rel="noreferrer"> <img alt="Amir Elkased's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/amirelkased" target="_blank" rel="noreferrer"> <img alt="Amir Elkased's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://leetcode.com/amirelkased" target="_blank" rel="noreferrer"> <img alt="AAmir Elkased's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
+</div>
 <br>
 
 </b>
