@@ -49,8 +49,8 @@
 
 ## 📚 Repositories
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=amirelkased&repo=DSA_Implementation&theme=nightowl)](https://github.com/amirelkased/DSA_Implementation)
-&nbsp; &nbsp;
+<!--[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=amirelkased&repo=DSA_Implementation&theme=nightowl)](https://github.com/amirelkased/DSA_Implementation)
+&nbsp; &nbsp;-->
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=amirelkased&repo=Bootcamp_Learning_python&theme=nightowl)](https://github.com/amirelkased/Bootcamp_Learning_python)
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=amirelkased&repo=Amazing_Numbers&theme=nightowl)](https://github.com/amirelkased/Amazing_Numbers)
