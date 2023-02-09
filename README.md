@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently Student at **Faculty of Electronic Engineering**
 
-- 📫 How to reach me **amirelkased.dev@gmail.com**
+<!-- - 📫 How to reach me **amirelkased.dev@gmail.com** -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <a href="https://codepen.io/amirelkased" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amirelkased" height="30" width="40" /></a>
@@ -46,7 +46,7 @@
 ## 📫 Contact Info 
 
 <div align="left">
-  <a href="mailto:amirelkased8558@gmail.com" target="_blank" rel="noreferrer"> <img alt="Amir Elkased's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  <a href="mailto:amirelkased.dev@gmail.com" target="_blank" rel="noreferrer"> <img alt="Amir Elkased's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/amirelkased" target="_blank" rel="noreferrer"> <img alt="Amir Elkased's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
