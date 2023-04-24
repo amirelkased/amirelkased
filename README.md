@@ -1,3 +1,5 @@
+<!-- Header -->
+
 <h3 align="center">
   Welcome to Amir Elkased's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -10,6 +12,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Java%20Instructor%20@%20GDSC%20Al%20Azhar;Aspiring%20Software%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+
+<!-- Info -->
 
 - 👋 Hi, I’m **Amir Elkased**. I am from Egypt and I am 21 years old.
 
@@ -25,7 +29,9 @@
 
 <br>
 
-### Connect with Me :
+<!-- Contact Details -->
+
+### 📫 &nbsp;Connect with Me
 
 <div align="left">
   <a href="mailto:amirelkased.dev@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
@@ -39,6 +45,8 @@
   <a href="https://leetcode.com/amirelkased" target="_blank" rel="noreferrer"> <img  src="https://img.shields.io/badge/Amir Elkased-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
 
 <br>
+
+<!-- Tech and tool stack -->
 
 ### 🛠 &nbsp;Tech Stack 
 
