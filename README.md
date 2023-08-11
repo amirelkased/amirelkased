@@ -10,12 +10,12 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Java%20Instructor%20@%20GDSC%20Al%20Azhar;Aspiring%20Software%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Backend%20Developer;Java%20Instructor%20ex.%20GDSC%20Al%20Azhar;Software%20Engineer%20Undergraduate&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 <!-- Info -->
 
-- 👋 Hi, I’m **Amir Elkased**. I am from Egypt and I am 21 years old.
+- 👋 Hi, I’m **Amir Elkased**. I am from Egypt and I am 22 years old.
 
 - 👀 I’m interested in **Problem Solving** and **Java Developer**. 
 
