@@ -17,9 +17,9 @@
 
 - 👋 Hi, I’m **Amir Elkased**. I am from Egypt and I am 22 years old.
 
-- 👀 I’m interested in **Problem Solving** and **Java Developer**. 
+- 👀 I’m interested in **Problem Solving** and **Java Backend Developer**. 
 
-- 🌱 I’m currently learning CS Engineering.
+- 🌱 I’m currently learning Computer Science and Engineering.
 
 - 💞️ I’m looking to collaborate on my solution problems.
 
