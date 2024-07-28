@@ -10,7 +10,7 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Backend%20Developer;Java%20Instructor%20ex.%20GDSC%20Al%20Azhar;Software%20Engineer%20Undergraduate&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Backend%20Developer;Java%20Instructor%20ex.%20GDSC%20Al%20Azhar&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 <!-- Info -->
