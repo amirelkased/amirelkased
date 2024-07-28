@@ -1,5 +1,5 @@
 <!-- Header -->
-
+<!--
 <h3 align="center">
   Welcome to Amir Elkased's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Backend%20Developer;Java%20Instructor%20ex.%20GDSC%20Al%20Azhar&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-
+-->
 <!-- Info -->
 
 - 👋 Hi, I’m **Amir Elkased**.
