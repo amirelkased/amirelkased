@@ -7,11 +7,11 @@
 <a href="https://komarev.com/ghpvc/?username=amirelkased&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=amirelkased&style=for-the-badge">
 </a>
-
+<!--
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Software%20Engineer%20Intern%20%40%20Fawry;Java%20Instructor%20ex.%20GDSC%20Al%20Azhar&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-
+ -->
 <!-- Info -->
 
 - 👋 Hi, I’m **Amir Elkased**.
