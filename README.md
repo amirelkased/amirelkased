@@ -28,8 +28,8 @@
 
 <!-- Contact Details -->
 
-### 📫 &nbsp;Connect with Me
-
+📫 &nbsp;Connect with Me
+------
 <div align="left">
   <a href="mailto:amirelkased.dev@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
@@ -53,7 +53,6 @@
 ------
 
 ![sdsd](https://skillicons.dev/icons?i=html,css,js,angular,ts&perline=12)
-
 
 ⚡️ DevTools
 ------
