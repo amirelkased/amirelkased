@@ -16,13 +16,13 @@
 
 - 👋 Hi, I’m **Amir Elkased**.
 
-- ⚡ Former Software Engineer Intern @ Fawry 
+- ⚡ **Former Software Engineer Intern @ Fawry**
 
-- 👀 I’m interested in **Problem Solving** and **Java Backend Developer**. 
+- 👀 I’m interested in **Java Backend Developer**. 
 
 - 💞️ I’m looking to collaborate on my solution problems.
 
-- 🔭 I graduated from **Faculty of Electronic Engineering**
+- 🔭 I graduated from **Faculty of Electronic Engineering, El-Menoufia University**
 
 <br>
 
