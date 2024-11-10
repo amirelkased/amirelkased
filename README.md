@@ -16,6 +16,8 @@
 
 - 👋 Hi, I’m **Amir Elkased**.
 
+- ⚡ Former Software Engineer Intern @ Fawry 
+
 - 👀 I’m interested in **Problem Solving** and **Java Backend Developer**. 
 
 - 💞️ I’m looking to collaborate on my solution problems.
@@ -45,12 +47,18 @@
 ⚡️ Backend Technologies
 ------
 
-![sdsd](https://skillicons.dev/icons?i=spring,angular,redis,mysql,postgres,mongodb,docker,ts,git,linux&perline=12)
+![sdsd](https://skillicons.dev/icons?i=spring,hibernate,redis,mysql,docker,rabbitmq&perline=12)
+
+⚡️ Frontend Technologies
+------
+
+![sdsd](https://skillicons.dev/icons?i=html,css,js,angular,ts&perline=12)
+
 
 ⚡️ DevTools
 ------
 
-![sdsd](https://skillicons.dev/icons?i=postman,github,maven&perline=12)
+![sdsd](https://skillicons.dev/icons?i=postman,git,github,maven,linux,idea,md,npm,regex,vscode&perline=12)
 
 ⚡️ Statistics
 ------
